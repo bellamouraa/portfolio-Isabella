@@ -15,4 +15,24 @@ body {
   height: 180px;
   border-radius: 50%;
   object-fit: cover;
+}#projetos,
+#contato {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#contato ul,
+#projetos ul {
+  list-style: none;
+  padding: 0;
+}
+
+#contato li,
+#projetos li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #0066cc;
 }
