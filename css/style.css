@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f5f5f5;
+  color: #222;
+}
+
+#inicio {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.foto {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+}
